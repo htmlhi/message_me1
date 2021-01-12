@@ -58,7 +58,7 @@
                 <p><input type="submit" value="submit" class="u-form-control-hidden"></p>
                 
             </div>
-              <a href="##">Anmelden</a>
+              <a href="anmelden.php">Anmelden</a>
             <div class="u-form-send-message u-form-send-success"> Vielen Dank! Ihre Nachricht wurde gesendet. </div>
             <div class="u-form-send-error u-form-send-message"> Ihre Nachricht konnte nicht gesendet werden. Bitte beheben Sie den Fehler und versuchen Sie es erneut. </div>
             <input type="hidden" value="" name="recaptchaResponse">
