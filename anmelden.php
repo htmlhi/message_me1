@@ -35,7 +35,7 @@
           <form action="#" method="POST" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" style="padding: 10px" source="custom" name="form">
             <div class="u-form-group u-form-name">
               <label for="name-de29" class="u-form-control-hidden u-label">Name</label>
-              <input type="text" placeholder="Name" id="name-de29" name="name" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
+              <input type="text" placeholder="Name und Vorname" id="name-de29" name="name" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
             </div>
             <div class="u-form-group u-form-group-2">
               <label for="text-1313" class="u-form-control-hidden u-label"></label>
