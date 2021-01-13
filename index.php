@@ -44,7 +44,7 @@
             <input type="hidden" id="pageId" name="pageId" value="450626091">
             <div class="u-form-group u-form-name">
               <label for="name-de29" class="u-form-control-hidden u-label">Name</label>
-              <input type="text" placeholder="Name" id="name-de29" name="name" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
+              <input type="text" placeholder="Name und Norname" id="name-de29" name="name" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
             </div>
             <div class="u-form-email u-form-group">
               <label for="email-de29" class="u-form-control-hidden u-label">E-Mail</label>
