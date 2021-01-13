@@ -34,12 +34,10 @@
         <div class="u-form u-form-1">
           <form action="#" method="POST" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" style="padding: 10px" source="custom" name="form">
             <div class="u-form-group u-form-name">
-              <label for="name-de29" class="u-form-control-hidden u-label">Name</label>
-              <input type="text" placeholder="Name und Vorname" id="name-de29" name="name" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
+              <input type="text" name="name" placeholder="Name und Vorname" required>
             </div>
             <div class="u-form-group u-form-group-2">
-              <label for="text-1313" class="u-form-control-hidden u-label"></label>
-              <input type="password" placeholder="Passwort" id="text-1313" name="password" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white">
+              <input type="password" name="passwort" placeholder="Passwort" required>
             </div>
             <div class="u-align-left u-form-group u-form-submit">
               <a href="#" class="u-btn u-btn-submit u-button-style">absenden</a>
