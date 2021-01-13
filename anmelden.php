@@ -9,6 +9,7 @@
     <title>Anmelden</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
 <link rel="stylesheet" href="anmelden.css" media="screen">
+      <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.3.7, nicepage.com">
