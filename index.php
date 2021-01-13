@@ -123,7 +123,7 @@
     
     
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-56d8"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">Created by Mehmet Simsek & Ömer Simsek</p>
+        <p class="u-small-text u-text u-text-variant u-text-1">Created by Ömer Simsek & Mehmet Simsek</p>
       </div></footer>
     
   </body>
