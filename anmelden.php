@@ -38,7 +38,7 @@
             </div>
             <div class="u-form-group u-form-group-2">
               <label for="text-1313" class="u-form-control-hidden u-label"></label>
-              <input type="text" placeholder="Passwort" id="text-1313" name="password" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white">
+              <input type="password" placeholder="Passwort" id="text-1313" name="password" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white">
             </div>
             <div class="u-align-left u-form-group u-form-submit">
               <a href="#" class="u-btn u-btn-submit u-button-style">absenden</a>
