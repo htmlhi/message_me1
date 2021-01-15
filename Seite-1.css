@@ -38,3 +38,14 @@ button{
 .form-box{
 
 }
+#about{
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 5% 0px 5%;
+    background-color: #7a7e89;
+
+}
