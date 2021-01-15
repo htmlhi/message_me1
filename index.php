@@ -19,7 +19,7 @@
             <li>Großbuchstaben</li>
             <li>Zahlen</li>
             <li>Sonderzeichen</li>
-            <li>Passwort mus mind.8 Zeichen haben</li>
+            <li>Passwort mus mind.8 Zeichen</li>
             <p><button type="submit" name="submit">Absenden</button></p>
         </form>
         </div>
