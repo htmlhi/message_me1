@@ -25,10 +25,11 @@
         </div>
 
     </body>
+<!--about-section--------->
     <section id="about">
-        <div class="img">
+
             <img src="https://img.icons8.com/cute-clipart/64/000000/user-shield.png"/>
-            </div>
+
             <div class="">
 
             </div>
