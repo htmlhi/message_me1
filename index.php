@@ -23,7 +23,9 @@
             <p><button type="submit" name="submit">Absenden</button></p>
         </form>
         </div>
-        <section class="Infos">
+
+    </body>
+    <section class="Infos">
         <div class="">
 
             </div>
@@ -34,5 +36,4 @@
 
             </div>
         </section>
-    </body>
 </html>
