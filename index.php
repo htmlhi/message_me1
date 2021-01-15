@@ -23,5 +23,16 @@
             <p><button type="submit" name="submit">Absenden</button></p>
         </form>
         </div>
+        <section class="Infos">
+        <div class="">
+
+            </div>
+            <div class="">
+
+            </div>
+            <div class="">
+
+            </div>
+        </section>
     </body>
 </html>
