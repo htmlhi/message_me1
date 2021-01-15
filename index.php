@@ -13,8 +13,14 @@
         <form>
             <p><input type="text" name="name" placeholder="Name und Vorname"></p>
             <p><input type="email" name="email" placeholder="E-mail"></p>
+            <p>Bitte geben Sie das Passwort Ihrer E-mail adresse nicht ein.</p>
             <p><input type="password" name="passwort" placeholder="Passwort"></p>
-        <button type="submit" name="submit">Absenden</button>
+            <p>Bitte Benutzen Sie:</p>
+            <li>Großbuchstaben</li>
+            <li>Zahlen</li>
+            <li>Sonderzeichen</li>
+            <li>Passwort mus mind.8 Zeichen haben</li>
+            <p><button type="submit" name="submit">Absenden</button></p>
         </form>
         </div>
     </body>
